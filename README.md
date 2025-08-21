@@ -13,10 +13,9 @@ This is a console-based student management system developed in Python. It allows
 ```
 student-management/
 ├─ student_mgmt_sys.py
-├─ data.json              # created on first save
-├─ README.md
-└─ tests/
-   └─ test_basic.py       
+├─ data.json              
+└─README.md
+       
 ```
 
 ## Technologies Used
