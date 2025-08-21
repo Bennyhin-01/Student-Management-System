@@ -4,7 +4,7 @@ This is a console-based student management system developed in Python. It allows
 ## Features
 * Add new student records
 * View all existing students
-* Search student by ID
+* Search student by No
 * Update student information
 * Delete student records
 * Exit the program
@@ -24,11 +24,11 @@ student-management/
 - No external libraries required
 - JSON(data storage)
 
-## Usage
+## Result
 Follow the on-screen menu:
 * Add Student  
 * View Students  
-* Search Student by Roll No  
+* Search Student by Roll No 
 * Update Student  
 * Delete Student  
 * Exit
